@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "name": "MonkeyType Dark",
   "description": "Minimal, typing-focused theme with customizable accent colors",
-  "author": "Your Name",
-  "homepage_url": "https://github.com/yourname/monkeytype-theme",
+  "author": "Mohammad Nafis Fuad",
+  "homepage_url": "https://github.com/nafis2024/joplin-monkeytype-theme",
   "keywords": ["theme", "dark", "monkeytype", "minimal"],
   "theme": true
 }
